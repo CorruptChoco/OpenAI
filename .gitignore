@@ -1,0 +1,10 @@
+config.py
+
+# extensions
+*.png
+
+# Folders
+Bet_who_exe/
+old_versions/
+__pycache__/
+pics/
